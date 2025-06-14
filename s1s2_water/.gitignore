@@ -1,0 +1,4 @@
+*.pyc
+data/*
+tiles/*
+!data/catalog.json
